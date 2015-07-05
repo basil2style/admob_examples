@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdMobTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">YOUR BANNER ADMOB ID</string>
+
+    <string name="title_activity_second_page">SecondPage</string>
+</resources>
